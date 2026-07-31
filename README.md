@@ -32,7 +32,7 @@ A full-stack business website built for a small software/IT consultancy, featuri
    C:\xampp\htdocs\northbeam-software\
    ```
 3. Open **phpMyAdmin** (`http://localhost/phpmyadmin`) and create a new database named `northbeam_db`.
-44. Import the database schema by going to **Import** in phpMyAdmin (with `northbeam_db` selected) and choosing `database/northbeam_db.sql` from this project. This creates the three tables: `users`, `services`, and `contact_messages`.
+4. Import the database schema by going to **Import** in phpMyAdmin (with `northbeam_db` selected) and choosing `database/northbeam_db.sql` from this project. This creates the three tables: `users`, `services`, and `contact_messages`.
 5. Create an admin user manually in the `users` table, using `password_hash()` to generate a hashed password (see `includes/db.php` for connection details — default XAMPP credentials are `root` with no password).
 6. Visit `http://localhost/northbeam-software/` to view the public site, or `http://localhost/northbeam-software/admin/login.php` to access the admin panel.
 
