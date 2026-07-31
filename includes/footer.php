@@ -8,7 +8,7 @@ $currentYear = date("Y");
       <div>
         <h4><?php echo $siteName; ?></h4>
         <p style="color:#9fb0b8; max-width:36ch;">
-          A small software and IT consulting team based out of Istanbul,
+          A small software and IT consulting team based out of Famagusta,
           building and maintaining systems for businesses that need
           things to just work.
         </p>
@@ -28,8 +28,8 @@ $currentYear = date("Y");
         <h4>Contact</h4>
         <ul>
           <li><a href="mailto:hello@northbeam.dev">hello@northbeam.dev</a></li>
-          <li><a href="tel:+900000000000">+90 000 000 00 00</a></li>
-          <li>Istanbul, Turkey</li>
+          <li><a href="tel:+901234567890">+90 123 456 78 90</a></li>
+          <li>Famagusta, TRNC</li>
         </ul>
       </div>
     </div>
