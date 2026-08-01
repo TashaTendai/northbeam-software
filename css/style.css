@@ -77,7 +77,8 @@ p { margin: 0 0 1em; color: var(--muted); }
 
 .eyebrow {
   font-family: var(--font-mono);
-  font-size: .75rem;
+  font-size: .95rem;
+  font-weight: 700;
   letter-spacing: .08em;
   text-transform: uppercase;
   color: var(--accent);
