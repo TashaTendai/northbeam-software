@@ -186,11 +186,15 @@ p { margin: 0 0 1em; color: var(--muted); }
 /* ---------- Hero ---------- */
 .hero {
   padding: 72px 0 48px;
-  background-image: linear-gradient(rgba(245, 246, 244, 0.90), rgba(245, 246, 244, 0.90)), url('../assets/img/hero-bg.jpg');
+  background-image: linear-gradient(rgba(245, 246, 244, 0.75), rgba(245, 246, 244, 0.75)), url('../assets/img/hero-bg.jpg');
   background-size: cover;
   background-position: center;
 }
-
+.hero-photo {
+  background-image: linear-gradient(rgba(245, 246, 244, 0.75), rgba(245, 246, 244, 0.75)), url('../assets/img/hero-bg.jpg');
+  background-size: cover;
+  background-position: center;
+}
 .hero-grid {
   display: grid;
   grid-template-columns: 1.1fr .9fr;

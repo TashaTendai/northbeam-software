@@ -17,7 +17,7 @@ if (isset($_GET['status'])) {
 }
 ?>
 
-<section class="section">
+<section class="section hero-photo">
   <div class="container two-col">
     <div>
       <span class="eyebrow">Contact</span>
