@@ -1,6 +1,6 @@
 <?php include 'includes/header.php'; ?>
 
-<section class="section">
+<section class="section hero-photo">
   <div class="container">
     <div class="section-head">
       <span class="eyebrow">About Us</span>
