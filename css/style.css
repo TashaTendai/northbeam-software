@@ -311,7 +311,7 @@ p { margin: 0 0 1em; color: var(--muted); }
   min-width: 110px;
 }
 .stat .num { font-size: 1.8rem; font-weight: 700; color: var(--accent-ink); display: block; }
-.stat .label { font-size: .8rem; color: var(--muted); text-transform: uppercase; letter-spacing: .05em; }
+.stat .label { font-size: .9rem; font-weight: 700; color: var(--muted); text-transform: uppercase; letter-spacing: .05em; }
 
 /* ---------- Forms ---------- */
 .form-card {
@@ -370,7 +370,8 @@ textarea { min-height: 130px; resize: vertical; }
 .info-list li:last-child { border-bottom: none; }
 .info-list .tag {
   font-family: var(--font-mono);
-  font-size: .75rem;
+  font-size: .85rem;
+  font-weight: 700;
   color: var(--accent);
   min-width: 84px;
 }
